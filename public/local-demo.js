@@ -1,0 +1,1 @@
+document.addEventListener('submit', function(e) { e.preventDefault(); alert('Local preview: this form is not connected to a live service.'); }, true);

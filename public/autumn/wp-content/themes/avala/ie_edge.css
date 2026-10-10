@@ -1,0 +1,5 @@
+@supports (-ms-ime-align: auto) {
+	.bt_bb_dash_top_bottom.bt_bb_headline .bt_bb_headline_superheadline {
+		display: inline-flex !important;
+	}
+}

@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts/4dbf533e060897db.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/5bbfa20ea8822ae7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/86d32165e2396fb8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/b955bc8f8c002170.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/fonts/701b772edf8b6a32.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/b366080083fd6a3b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/d85ac351715fa8a3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/38f17bc4a2cb24f7.ttf) format('truetype');
+}
